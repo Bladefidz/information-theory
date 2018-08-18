@@ -1,4 +1,5 @@
 # information-theory
+
 Fundamental of information theory in computer science perspective
 
 ## Books
@@ -10,7 +11,7 @@ Fundamental of information theory in computer science perspective
 
 ## Information Theory Notes at Coursera
 
-[Here](https://www.coursera.org/learn/information-theory/) is the course link. Below the weekly notes:
+[Here](https://www.coursera.org/learn/information-theory/) is the course link. Below the weekly notes (please use [nbviwer](http://nbviewer.jupyter.org/) for better LaTex rendering):
 
 - [The Science of Information](coursera/notes/Information%20Measures%20-%20Part%201/The%20Science%20of%20Information.ipynb)
-- [independence and markov chain](coursera/notes/Information%20Measures%20-%20Part%201/independence%20and%20markov%20chain.ipynb)
+- [Independence and markov chain](coursera/notes/Information%20Measures%20-%20Part%201/independence%20and%20markov%20chain.ipynb)
